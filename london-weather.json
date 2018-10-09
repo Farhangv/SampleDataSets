@@ -1,0 +1,149 @@
+{
+    "query": {
+        "count": 1,
+        "created": "2018-10-09T09:43:51Z",
+        "lang": "en-US",
+        "results": {
+            "channel": {
+                "units": {
+                    "distance": "mi",
+                    "pressure": "in",
+                    "speed": "mph",
+                    "temperature": "F"
+                },
+                "title": "Yahoo! Weather - London, England, GB",
+                "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-44418/",
+                "description": "Yahoo! Weather for London, England, GB",
+                "language": "en-us",
+                "lastBuildDate": "Tue, 09 Oct 2018 10:43 AM BST",
+                "ttl": "60",
+                "location": {
+                    "city": "London",
+                    "country": "United Kingdom",
+                    "region": " England"
+                },
+                "wind": {
+                    "chill": "55",
+                    "direction": "200",
+                    "speed": "7"
+                },
+                "atmosphere": {
+                    "humidity": "82",
+                    "pressure": "1016.0",
+                    "rising": "0",
+                    "visibility": "16.1"
+                },
+                "astronomy": {
+                    "sunrise": "7:15 am",
+                    "sunset": "6:19 pm"
+                },
+                "image": {
+                    "title": "Yahoo! Weather",
+                    "width": "142",
+                    "height": "18",
+                    "link": "http://weather.yahoo.com",
+                    "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+                },
+                "item": {
+                    "title": "Conditions for London, England, GB at 10:00 AM BST",
+                    "lat": "51.506401",
+                    "long": "-0.12721",
+                    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-44418/",
+                    "pubDate": "Tue, 09 Oct 2018 10:00 AM BST",
+                    "condition": {
+                        "code": "30",
+                        "date": "Tue, 09 Oct 2018 10:00 AM BST",
+                        "temp": "56",
+                        "text": "Partly Cloudy"
+                    },
+                    "forecast": [
+                        {
+                            "code": "30",
+                            "date": "09 Oct 2018",
+                            "day": "Tue",
+                            "high": "68",
+                            "low": "50",
+                            "text": "Partly Cloudy"
+                        },
+                        {
+                            "code": "30",
+                            "date": "10 Oct 2018",
+                            "day": "Wed",
+                            "high": "73",
+                            "low": "53",
+                            "text": "Partly Cloudy"
+                        },
+                        {
+                            "code": "39",
+                            "date": "11 Oct 2018",
+                            "day": "Thu",
+                            "high": "70",
+                            "low": "59",
+                            "text": "Scattered Showers"
+                        },
+                        {
+                            "code": "23",
+                            "date": "12 Oct 2018",
+                            "day": "Fri",
+                            "high": "67",
+                            "low": "56",
+                            "text": "Breezy"
+                        },
+                        {
+                            "code": "12",
+                            "date": "13 Oct 2018",
+                            "day": "Sat",
+                            "high": "71",
+                            "low": "60",
+                            "text": "Rain"
+                        },
+                        {
+                            "code": "12",
+                            "date": "14 Oct 2018",
+                            "day": "Sun",
+                            "high": "64",
+                            "low": "54",
+                            "text": "Rain"
+                        },
+                        {
+                            "code": "30",
+                            "date": "15 Oct 2018",
+                            "day": "Mon",
+                            "high": "63",
+                            "low": "49",
+                            "text": "Partly Cloudy"
+                        },
+                        {
+                            "code": "28",
+                            "date": "16 Oct 2018",
+                            "day": "Tue",
+                            "high": "63",
+                            "low": "53",
+                            "text": "Mostly Cloudy"
+                        },
+                        {
+                            "code": "28",
+                            "date": "17 Oct 2018",
+                            "day": "Wed",
+                            "high": "61",
+                            "low": "51",
+                            "text": "Mostly Cloudy"
+                        },
+                        {
+                            "code": "28",
+                            "date": "18 Oct 2018",
+                            "day": "Thu",
+                            "high": "60",
+                            "low": "46",
+                            "text": "Mostly Cloudy"
+                        }
+                    ],
+                    "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/30.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Partly Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Tue - Partly Cloudy. High: 68Low: 50\n<BR /> Wed - Partly Cloudy. High: 73Low: 53\n<BR /> Thu - Scattered Showers. High: 70Low: 59\n<BR /> Fri - Breezy. High: 67Low: 56\n<BR /> Sat - Rain. High: 71Low: 60\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-44418/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+                    "guid": {
+                        "isPermaLink": "false"
+                    }
+                }
+            }
+        }
+    }
+}

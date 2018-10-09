@@ -1,0 +1,2 @@
+https://github.com/jdorfman/awesome-json-datasets
+https://catalog.data.gov/dataset
